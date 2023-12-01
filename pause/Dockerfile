@@ -1,2 +1,1 @@
-FROM k8s.gcr.io/pause:3.1
-MAINTAINER heqingbao <qingbao.ho@gmail.com>
+FROM registry.k8s.io/pause:3.6
